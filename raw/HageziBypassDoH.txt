@@ -724,7 +724,6 @@ dns.demon-inc.tw
 doh.denypradana.com
 adguard.depieri.net
 adguard.dervart.ru
-dns.deshaveu.com
 adguard.lege.despagne.net
 adguard.rennes.despagne.net
 adguard.dessoi.cloud
